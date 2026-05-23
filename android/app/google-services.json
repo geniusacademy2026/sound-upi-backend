@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "811767647997",
+    "firebase_url": "https://payment-voice-system-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "payment-voice-system",
+    "storage_bucket": "payment-voice-system.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811767647997:android:e683fe523c86489d63b894",
+        "android_client_info": {
+          "package_name": "com.example.payment_voice_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJWGtl9OAVJDXjqR4zL1JRff7Qm7BT-Fk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
